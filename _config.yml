@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3763441
+  lightness: 0
+  brandStrength: 0.281362
+  brandColors:
+    - '#292826'
+    - '#E9E9E0'
+    - '#A31D18'
+    - '#645E5A'
+    - '#FAA353'
+  rhythmicContrast: 0.6917562
+typography_spectrum: 0.3100359
+name: Vinnylav
