@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Vinny LaVigna's Personal site]]></title>
         <description><![CDATA[Vinny LaVigna's Personal site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vinnylav/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 05:33:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 05:35:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vinnylav/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaf4e00c-b58c-41bb-8656-e35629a77f48.png">]]></description>
+            <link>https://thegrid.ai/vinnylav/flexaray-site-design/index.html</link>
+            <guid isPermaLink="false">ee56ab5f-d216-48ab-b9e7-0d9d04c0c459</guid>
+            <pubDate>Mon, 02 May 2016 05:35:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c053d8b5-9e93-4a41-b6d2-6c35b7cdd627.png">]]></description>
-            <link>undefinedexperimental-logo-design/index.html</link>
+            <link>https://thegrid.ai/vinnylav/experimental-logo-design/index.html</link>
             <guid isPermaLink="false">9093e419-3e57-4d89-8ae4-18d6e1555c1f</guid>
             <pubDate>Mon, 02 May 2016 05:33:28 GMT</pubDate>
         </item>
