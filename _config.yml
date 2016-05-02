@@ -1,14 +1,29 @@
+name: Vinnylav
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.3100359
+title: "Vinny LaVigna's Personal site"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3763441
-  lightness: 0
-  brandStrength: 0.281362
   brandColors:
     - '#292826'
     - '#E9E9E0'
     - '#A31D18'
     - '#645E5A'
     - '#FAA353'
+  brandStrength: 0.281362
+  lightness: 0
+  saturation: 0.3763441
   rhythmicContrast: 0.6917562
-typography_spectrum: 0.3100359
-name: Vinnylav
+purpose: []
